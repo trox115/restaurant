@@ -32,3 +32,21 @@ body,html{
   width: 90%;
   margin: 0 25px 0 25px;
 }
+
+ul{
+  list-style: none;
+display: flex;
+
+
+}
+li{
+  margin-left: 3%;
+  align-items: center;
+  align-content: center;
+}
+a{
+  cursor: pointer;
+  color:blue;
+  font-size: 1.5rem;
+
+}
