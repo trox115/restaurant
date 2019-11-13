@@ -19,3 +19,16 @@ body,html{
   float:left;
   margin:0;
 }
+.text{
+  width: 50%;
+  height: 100%;
+  overflow: hidden;
+  float:left;
+  margin:0;
+  text-align: center;
+}
+
+.texti{
+  width: 90%;
+  margin: 0 25px 0 25px;
+}
