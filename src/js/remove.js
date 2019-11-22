@@ -1,9 +1,4 @@
-function removeContent(){
-
-  document.getElementById("content").remove();
-  const body = document.querySelector('body');
-  let div = document.createElement("div");
-  div.id= 'content';
-  body.appendChild(div);
+function removeContent() {
+  document.getElementById("content2").remove();
 }
 export { removeContent };
