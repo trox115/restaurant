@@ -1,0 +1,126 @@
+body,html{
+  height: 100%;
+  width: 100%;
+  margin: 0;
+}
+#content{
+  width: 100%;
+  height: 100%;
+  margin:0;
+}
+#content2{
+  width: 100%;
+  height: 100%;
+  margin:0;
+}
+
+.image{
+  width: 50%;
+  height: 100%;
+  background: url(./img/rest.jpg);
+  background-position: center;
+  background-size: cover;
+  overflow: hidden;
+  float:left;
+  margin:0;
+}
+
+.salmon{
+  width: 50%;
+  height: 50%;
+  background: url(./img/salmon.jpg);
+  background-position: center;
+  background-size: cover;
+  overflow: hidden;
+  float:left;
+  margin:0;
+}
+
+.shakes{
+  width: 50%;
+  height: 50%;
+  background: url(./img/shakes.jpg);
+  background-position: center;
+  background-size: cover;
+  overflow: hidden;
+  float:left;
+  margin:0;
+}
+
+
+.meat{
+  width: 50%;
+  height: 50%;
+  background: url(./img/meat.jpg);
+  background-position: center;
+  background-size: cover;
+  overflow: hidden;
+  float:left;
+  margin:0;
+}
+.contact{
+  width: 50%;
+  height: 100%;
+  background: url(./img/contact.jpg);
+  background-position: right;
+  background-size: cover;
+  overflow: hidden;
+  float:left;
+  margin:0;
+}
+.text{
+  width: 50%;
+  height: 100%;
+  overflow: hidden;
+  float:left;
+  margin:0;
+  text-align: center;
+}
+
+.text2{
+  width: 50%;
+  height:50%;
+  overflow: hidden;
+  float:left;
+  margin:0;
+  text-align: center;
+}
+
+
+.texti{
+  width: 90%;
+  margin: 0 25px 0 25px;
+}
+
+ul{
+  list-style: none;
+display: flex;
+
+
+}
+li{
+  margin-left: 3%;
+  align-items: center;
+  align-content: center;
+}
+a{
+  cursor: pointer;
+  color:blue;
+  font-size: 1.5rem;
+
+}
+
+form{
+  display: block;
+  text-align: center;
+}
+input{
+  text-align: center;
+  display: block;
+  margin-left:25%;
+}
+
+textarea{
+  width: 80%;
+  min-height: 200px;
+}

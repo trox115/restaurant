@@ -1,0 +1,33 @@
+{
+  "name": "restaurant",
+  "version": "1.0.0",
+  "description": "This is a restaurant page",
+  "main": "index.js",
+  "dependencies": {
+    "eslint": "^6.6.0",
+    "eslint-config-airbnb": "^18.0.1"
+  },
+  "devDependencies": {
+    "prettier": "^1.19.1",
+    "prettier-webpack-plugin": "^1.2.0",
+    "webpack-cli": "^3.3.10"
+  },
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trox115/restaurant.git"
+  },
+  "keywords": [
+    "Restaurant",
+    "javascript",
+    "page"
+  ],
+  "author": "António Fernandes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trox115/restaurant/issues"
+  },
+  "homepage": "https://github.com/trox115/restaurant#readme"
+}
