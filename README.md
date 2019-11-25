@@ -24,8 +24,8 @@ This project was created by:
 
 - António Fernandes [Github account](https://github.com/trox115) [https://github.com/trox115][https://github.com/trox115]
 
-
 # Live Version
+
 You can view the live version [here](https://trox115.github.io/restaurant)
 
 You can view the development version [here](https://trox115.github.io/restaurant)
